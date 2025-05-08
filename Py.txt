@@ -1,0 +1,6 @@
+python -m venv Ml_Project
+
+
+source Ml_Project/bin/activate
+
+
